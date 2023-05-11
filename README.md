@@ -9,9 +9,6 @@
 > [Huazhu Fu](http://hzfu.github.io/), and
 > [Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=en).
 
-<p align="center">
-    <img src="imgs/PraNet-Award.png"/> <br />
-</p>
 
 ## 1. Preface
 
@@ -49,8 +46,7 @@ Accurate segmentation of polyps from colonoscopy images plays a critical role in
 <p align="center">
     <img src="imgs/framework.png"/> <br />
     <em> 
-    Figure 1: Overview of the proposed PraNet, which consists of three reverse attention 
-    modules with a parallel partial decoder connection. See § 2 in the paper for details.
+    Figure 1: Overview of the proposed CFANet.
     </em>
 </p>
 
