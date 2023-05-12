@@ -36,7 +36,7 @@
     - [3.1. Training/Testing](#31-trainingtesting)
     - [3.2 Evaluating your trained model:](#32-evaluating-your-trained-model)
     - [3.3 Pre-computed maps:](#33-pre-computed-maps)
-  - [4. MindSpore](#4-implementation-using-mindsporee)
+  - [4. MindSpore](#4-mindspore)
   - [5. Citation](#5-citation)
   - [6. License](#6-license)
 
@@ -122,7 +122,7 @@ The complete evaluation toolbox (including data, map, eval code, and res): [new 
 They can be found in [download link]().
 
 
-## 4. Implementation using MindSpore
+## 4. MindSpore
 
 
 ## 5. Citation
