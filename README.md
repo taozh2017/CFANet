@@ -18,20 +18,26 @@
 - If you have any questions about our paper, feel free to contact me. And if you are using CFANet for your research, please cite this paper ([BibTeX](#4-citation)).
 
 
+### 1.1. :fire: NEWS :fire:
 
-### 1.1. Table of Contents
+- [2023/05/20] Release training/testing code.
+
+- [2020/05/10] Create repository.
+
+
+### 2.1. Table of Contents
 
 - [Cross-level Feature Aggregation Network for Polyp Segmentation]
-  - [1. Overview](#2-overview)
-    - [1.1. Introduction](#21-introduction)
-    - [1.2. Framework Overview](#22-framework-overview)
-    - [1.3. Qualitative Results](#23-qualitative-results)
-  - [2. Proposed Baseline](#3-proposed-baseline)
-    - [2.1. Training/Testing](#31-trainingtesting)
-    - [2.2 Evaluating your trained model:](#32-evaluating-your-trained-model)
-    - [2.3 Pre-computed maps:](#33-pre-computed-maps)
-  - [3. Citation](#4-citation)
-  - [5. License](#6-license)
+  - [2. Overview](#2-overview)
+    - [2.1. Introduction](#21-introduction)
+    - [2.2. Framework Overview](#22-framework-overview)
+    - [2.3. Qualitative Results](#23-qualitative-results)
+  - [3. Proposed Baseline](#3-proposed-baseline)
+    - [3.1. Training/Testing](#31-trainingtesting)
+    - [3.2 Evaluating your trained model:](#32-evaluating-your-trained-model)
+    - [3.3 Pre-computed maps:](#33-pre-computed-maps)
+  - [4. Citation](#4-citation)
+  - [5. License](#5-license)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
