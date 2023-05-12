@@ -36,7 +36,7 @@
     - [3.1. Training/Testing](#31-trainingtesting)
     - [3.2 Evaluating your trained model:](#32-evaluating-your-trained-model)
     - [3.3 Pre-computed maps:](#33-pre-computed-maps)
-  - [4. MindSpore](#4-mind-spore)
+  - [4. MindSpore](#4-implementation-using-mindsporee)
   - [5. Citation](#5-citation)
   - [6. License](#6-license)
 
