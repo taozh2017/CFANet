@@ -36,8 +36,9 @@
     - [3.1. Training/Testing](#31-trainingtesting)
     - [3.2 Evaluating your trained model:](#32-evaluating-your-trained-model)
     - [3.3 Pre-computed maps:](#33-pre-computed-maps)
-  - [4. Citation](#4-citation)
-  - [5. License](#5-license)
+  - [4. MindSpore](#4-mind-spore)
+  - [5. Citation](#5-citation)
+  - [6. License](#6-license)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
