@@ -122,7 +122,10 @@ The complete evaluation toolbox (including data, map, eval code, and res): [new 
 They can be found in [download link]().
 
 
-## 4. Citation
+## 4. Implementation using MindSpore
+
+
+## 5. Citation
 
 Please cite our paper if you find the work useful: 
     
@@ -137,7 +140,7 @@ Please cite our paper if you find the work useful:
     }
 
 
-## 5. License
+## 6. License
 
 The source code is free for research and education use only. Any comercial use should get formal permission first.
 
