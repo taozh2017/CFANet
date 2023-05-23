@@ -81,7 +81,7 @@ a single NVIDIA Tesla P40 with 24 GB Memory.
     Note that CFANet is only tested on Ubuntu OS with the following environments. 
     It may work on other operating systems as well but we do not guarantee that it will.
     
-    + Creating a virtual environment in terminal: `conda create -n PraNet python=3.6`.
+    + Creating a virtual environment in terminal: `conda create -n CFANet python=3.6`.
     
     + Installing necessary packages: PyTorch 1.1
 
@@ -126,13 +126,19 @@ They can be found in [download link]().
 
 You need to run `cd mindspore` first.
 
-1. Training Configuration:
+1. Environment Configuration:
+
+    + MindSpore: 2.0.0-alpha
+
+    + Python: 3.8.0
+
+5. Training Configuration:
 
     + Assigning your costumed path, like `--save_model` , `--train_img_dir` and so on in `train.py`.
     
     + Just enjoy it!
 
-1. Testing Configuration:
+6. Testing Configuration:
 
     + After you download all the pre-trained model and testing dataset, just run `test.py` to generate the final prediction map: 
     replace your trained model directory (`--pth_path`).
