@@ -78,7 +78,7 @@ a single NVIDIA Tesla P40 with 24 GB Memory.
 
 1. Configuring your environment (Prerequisites):
    
-    Note that PraNet is only tested on Ubuntu OS with the following environments. 
+    Note that CFANet is only tested on Ubuntu OS with the following environments. 
     It may work on other operating systems as well but we do not guarantee that it will.
     
     + Creating a virtual environment in terminal: `conda create -n PraNet python=3.6`.
@@ -124,6 +124,20 @@ They can be found in [download link]().
 
 ## 4. MindSpore
 
+You need to run `cd mindspore` first.
+
+1. Training Configuration:
+
+    + Assigning your costumed path, like `--save_model` , `--train_img_dir` and so on in `train.py`.
+    
+    + Just enjoy it!
+
+1. Testing Configuration:
+
+    + After you download all the pre-trained model and testing dataset, just run `test.py` to generate the final prediction map: 
+    replace your trained model directory (`--pth_path`).
+    
+    + Just enjoy it!
 
 ## 5. Citation
 
