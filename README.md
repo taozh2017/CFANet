@@ -119,7 +119,7 @@ please follow this the instructions in `./eval/main.m` and just run it to genera
 The complete evaluation toolbox (including data, map, eval code, and res): [new link](https://drive.google.com/file/d/1bnlz7nfJ9hhYsMLFSBr9smcI7k7p0pVy/view?usp=sharing). 
 
 ### 3.3 Pre-computed maps: 
-They can be found in [download link]().
+They can be found in [download link](https://drive.google.com/file/d/1FY2FFDw-VLwmZ-JbJ-h4uAizcpgiY5vg/view?usp=drive_link).
 
 
 ## 4. MindSpore
