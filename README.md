@@ -149,7 +149,7 @@ You need to run `cd mindspore` first.
 
 Please cite our paper if you find the work useful: 
     
-    @article{fan2020pranet,
+    @article{zhou2023cross,
       title={Cross-level Feature Aggregation Network for Polyp Segmentation},
       author={Zhou, Tao and Zhou, Yi and He, Kelei and Gong, Chen and Yang, Jian and Fu, Huazhu and Shen, Dinggang},
       journal={Pattern Recognition},
